@@ -4,13 +4,13 @@
 🌍 Based in Boston, MA  
 🔗 [LinkedIn](https://www.linkedin.com/in/saikirananumalla)
 
----
+#
 
 ## 🧠 About Me
 
 I'm a passionate software developer with a keen interest in building scalable and robust software. My journey in tech is driven by curiosity and a commitment to continuous learning, especially in the areas of **full stack development**, **backend engineering**, **cloud infrastructure**, **system design**, **Generative AI**, and **big data technologies**.
 
----
+#
 
 ## 🛠️ Tech Stack
 
@@ -18,14 +18,17 @@ I'm a passionate software developer with a keen interest in building scalable an
 - **Frameworks:** Spring Boot, React, Node.js, Express
 - **Tools:** Git, Docker, AWS
 
----
+#
 
 ## 📝 Latest Projects
 
-- [Portfolio Website](https://github.com/saikirananumalla/Portfolio): My personal portfolio showcasing my projects and skills.
-- [Weather App](https://github.com/saikirananumalla/Weather-App): A web application that provides weather forecasts using OpenWeatherMap API.
+- [Crypto GPT](https://github.com/saikirananumalla/crypto-gpt):  
+  A full-stack AI-powered cryptocurrency assistant built using **Java**, **Spring Boot**, **GraphQL**, and the **ChatGPT API**. It fetches top crypto prices, supports real-time chat with filtered GenAI responses, and stores user chat history securely.
 
----
+- [Paxos-Based Key-Value Store](https://github.com/saikirananumalla/paxos-key-value-store):  
+  A **fault-tolerant distributed key-value store** built in **Java** using **multi-threading, RMI, and Paxos** for consensus. Simulates acceptor failures and ensures consistent replication across nodes with health checks and failover strategies.
+
+#
 
 ## 📫 Let's Connect
 
