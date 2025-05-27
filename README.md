@@ -5,13 +5,11 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/saikirananumalla)
 
 #
-
 ## 🧠 About Me
 
 I'm a passionate software developer with a keen interest in building scalable and robust software. My journey in tech is driven by curiosity and a commitment to continuous learning, especially in the areas of **full stack development**, **backend engineering**, **cloud infrastructure**, **system design**, **Generative AI**, and **big data technologies**.
 
 #
-
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, Javascript, Python
@@ -19,7 +17,6 @@ I'm a passionate software developer with a keen interest in building scalable an
 - **Tools:** Git, Docker, AWS
 
 #
-
 ## 📝 Latest Projects
 
 - [Crypto GPT](https://github.com/saikirananumalla/crypto-gpt):  
@@ -29,7 +26,6 @@ I'm a passionate software developer with a keen interest in building scalable an
   A **fault-tolerant distributed key-value store** built in **Java** using **multi-threading, RMI, and Paxos** for consensus. Simulates acceptor failures and ensures consistent replication across nodes with health checks and failover strategies.
 
 #
-
 ## 📫 Let's Connect
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/saikirananumalla) or check out my [portfolio](https://saikirananumalla.com).
