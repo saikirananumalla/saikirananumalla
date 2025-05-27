@@ -22,7 +22,7 @@ I'm a passionate software developer with a keen interest in building scalable an
 - [Crypto GPT](https://github.com/saikirananumalla/crypto-gpt):  
   A full-stack AI-powered cryptocurrency assistant built using **Java**, **Spring Boot**, **GraphQL**, and the **ChatGPT API**. It fetches top crypto prices, supports real-time chat with filtered GenAI responses, and stores user chat history securely.
 
-- [Paxos-Based Key-Value Store](https://github.com/saikirananumalla/paxos-key-value-store):  
+- [Distributed-Based Key-Value Store](https://github.com/saikirananumalla/distributed-key-value-store):  
   A **fault-tolerant distributed key-value store** built in **Java** using **multi-threading, RMI, and Paxos** for consensus. Simulates acceptor failures and ensures consistent replication across nodes with health checks and failover strategies.
 
 #
