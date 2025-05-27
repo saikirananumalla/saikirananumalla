@@ -20,12 +20,6 @@ I'm a passionate software developer with a keen interest in building scalable an
 
 ---
 
-## 📈 GitHub Stats
-
-![Sai Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikirananumalla&show_icons=true&theme=radical)
-
----
-
 ## 📝 Latest Projects
 
 - [Portfolio Website](https://github.com/saikirananumalla/Portfolio): My personal portfolio showcasing my projects and skills.
