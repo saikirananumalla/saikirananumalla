@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=saikirananumalla&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views Counter"/>
 </p>
 
-🎓 MS in Computer Science @ Northeastern University **GPA:4.0/4.0**
+🎓 MS in Computer Science @ Northeastern University
 🌍 Based in Boston, MA  
 🔗 [LinkedIn](https://www.linkedin.com/in/saikirananumalla)  
 🚀 Actively looking for full-time **Software Engineer** roles starting **Sep 2025**!  
