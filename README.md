@@ -1,4 +1,9 @@
 # 👋 Hi, I'm Sai Kiran Anumalla
+<h3 align="center">Solving Problems, Designing Systems, & Crafting Clean Code</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saikirananumalla&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views Counter"/>
+</p>
 
 🎓 MS in Computer Science @ Northeastern University  
 🌍 Based in Boston, MA  
@@ -19,11 +24,9 @@ I'm a passionate software developer with a keen interest in building scalable an
 #
 ## 📝 Latest Projects
 
-- [Crypto GPT](https://github.com/saikirananumalla/crypto-gpt):  
-  A full-stack AI-powered cryptocurrency assistant built using **Java**, **Spring Boot**, **GraphQL**, and the **ChatGPT API**. It fetches top crypto prices, supports real-time chat with filtered GenAI responses, and stores user chat history securely.
+- [Crypto GPT](https://github.com/saikirananumalla/crypto-gpt)(Ongoing) : A full-stack AI-powered cryptocurrency assistant built using **Java**, **Spring Boot**, **GraphQL**, and the **ChatGPT API**. It fetches top crypto prices, supports real-time chat with filtered GenAI responses, and stores user chat history securely.
 
-- [Distributed-Based Key-Value Store](https://github.com/saikirananumalla/distributed-key-value-store):  
-  A **fault-tolerant distributed key-value store** built in **Java** using **multi-threading, RMI, and Paxos** for consensus. Simulates acceptor failures and ensures consistent replication across nodes with health checks and failover strategies.
+- [Distributed-Based Key-Value Store](https://github.com/saikirananumalla/distributed-key-value-store): A **fault-tolerant distributed key-value store** built in **Java** using **multi-threading, RMI, and Paxos** for consensus. Simulates acceptor failures and ensures consistent replication across nodes with health checks and failover strategies.
 
 #
 ## 📫 Let's Connect
