@@ -6,6 +6,7 @@
 </p>
 
 🎓 MS in Computer Science @ Northeastern University GPA: 4.0/4.0
+
 🌍 Based in Boston, MA  
 🔗 [LinkedIn](https://www.linkedin.com/in/saikirananumalla)  
 🚀 Actively looking for full-time **Software Engineer** roles starting **Sep 2025**!  
