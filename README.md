@@ -67,7 +67,7 @@ I'm a passionate software developer with a keen interest in building scalable an
 **Tech Stack:** Java | Multithreading | RMI | Paxos  
 🛡️ A fault-tolerant distributed key-value store using Paxos consensus protocol to achieve consistency across replicas. Simulates node failures and implements retry logic with health checks.
 
-### 📍 [Image Manipulation & Enhancement Application]((https://github.com/saikirananumalla/Image-Manipulation-And-Enhancement)  
+### 📍 [Image Manipulation & Enhancement Application](https://github.com/saikirananumalla/Image-Manipulation-And-Enhancement)  
 **Tech Stack:** Java | MVC Pattern | Image Processing  
 🖼️  A modular Java application for image manipulation and enhancement with GUI and CLI support, offering filters, transformations, undo, and export using an MVC architecture 
 
