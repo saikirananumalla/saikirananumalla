@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sai Kiran Anumalla
+<h1 align="center">👋 Hi, I'm Sai Kiran Anumalla</h1>
 <h3 align="center">Solving Problems, Designing Systems, & Crafting Clean Code</h3>
 
 <p align="center">
