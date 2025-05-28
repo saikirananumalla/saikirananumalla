@@ -7,16 +7,9 @@
 
 🎓 MS in Computer Science @ Northeastern University  
 🌍 Based in Boston, MA  
-🔗 [LinkedIn](https://www.linkedin.com/in/saikirananumalla)
-- Actively Looking for fulltime Software Engineer roles starting Sep 2025!
-- Interested in backend, distributed systems, microservices, and cloud computing
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/renee617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/renee617/" height="30" width="30" /></a>
-<a href="https://www.instagram.com/imrenee_0617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imrenee_0617" height="30" width="30" /></a>
-</p>
-
+🔗 [LinkedIn](https://www.linkedin.com/in/saikirananumalla)  
+🚀 Actively looking for full-time **Software Engineer** roles starting **Sep 2025**!  
+🛠️ Interested in **backend**, **distributed systems**, **microservices**, and **cloud computing**
 
 #
 ## 🧠 About Me
