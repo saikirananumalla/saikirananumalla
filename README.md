@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sai Kiran Anumalla</h1>
-<h3 align="center">Solving Problems, Designing Systems, & Crafting Clean Code</h3>
+<h3 align="center">Solving Problems, Designing Systems & Writing Clean Code</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saikirananumalla&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views Counter"/>
