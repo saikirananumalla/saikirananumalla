@@ -77,7 +77,7 @@ I'm a passionate software developer with a keen interest in building scalable an
 
 ### 📍 [Flatmates – Chore & Payment Manager](https://github.com/saikirananumalla/flatmates-app)  
 **Tech Stack:** React | Python | FastAPI | Firebase | Material UI  
-🏡 A smart roommate collaboration platform for people living under the same roof. Manages shared **chores**, **payments**, and responsibilities using a clean React frontend and FastAPI backend. Real-time updates powered by Firebase.
+🏡 A roommate collaboration platform for people living under the same roof. Manages shared **chores**, **payments**, and responsibilities using a clean React frontend and FastAPI backend.
 
 ### 📍 [EverythingNU - Campus App](https://github.com/saikirananumalla/EverythingNU)  
 **Tech Stack:** Swift | Firebase | SwiftUI  
