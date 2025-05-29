@@ -65,7 +65,7 @@ I'm a passionate software developer with a keen interest in building scalable an
 🚀 A full-stack AI-powered cryptocurrency assistant that fetches live crypto prices and lets users ask crypto-related queries using a real-time chat interface backed by ChatGPT and GraphQL Subscriptions.
 
 ### 📍 [Distributed Key-Value Store](https://github.com/saikirananumalla/distributed-key-value-store)  
-**Tech Stack:** Java | Multithreading | RMI | Paxos  
+**Tech Stack:** Java | Multi-threading | RMI | Paxos  
 🛡️ A fault-tolerant distributed key-value store using Paxos consensus protocol to achieve consistency across replicas. Simulates node failures and implements retry logic with health checks.
 
 ### 📍 [Image Manipulation & Enhancement Application](https://github.com/saikirananumalla/Image-Manipulation-And-Enhancement)  
