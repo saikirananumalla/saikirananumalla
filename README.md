@@ -7,7 +7,7 @@
 
 🎓 MS in Computer Science @ Northeastern University GPA: 4.0/4.0  
 🌍 Based in Boston, MA  
-💼 3+ years of software development experience across backend, full-stack, and cloud projects  
+💼 Around 3 years of software development experience across backend, full-stack, and cloud projects  
 🔗 [LinkedIn](https://www.linkedin.com/in/saikirananumalla)  
 🚀 Actively looking for full-time **Software Engineer** roles starting **Sep 2025**!  
 🛠️ Interested in **backend**, **distributed systems**, **microservices**, and **cloud computing**
