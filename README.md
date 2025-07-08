@@ -10,13 +10,40 @@
 💼 Around 3 years of software development experience across backend, full-stack, and cloud projects  
 🔗 [LinkedIn](https://www.linkedin.com/in/saikirananumalla)  
 🚀 Actively looking for full-time **Software Engineer** roles starting **Sep 2025**!  
-🛠️ Interested in **backend**, **distributed systems**, **microservices**, and **cloud computing**
+🛠️ Interested in **AI**, **backend**, **distributed systems**, **microservices**, and **cloud computing**
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate software developer with a keen interest in building scalable and robust software. My journey in tech is driven by curiosity and a commitment to continuous learning, especially in the areas of **full stack development**, **backend engineering**, **cloud infrastructure**, **system design**, **Generative AI**, and **big data technologies**.
+I'm a passionate software developer with a keen interest in building scalable and robust software. My journey in tech is driven by curiosity and a commitment to continuous learning, especially in the areas of **full stack development**, **backend engineering**, **generative AI**, **cloud infrastructure**, **system design**, and **big data technologies**.
+
+**Currently exploring and building projects with:**
+- 🤖 **Generative AI & LLMs** - Building AI-powered applications
+- 🔗 **AI Agents** - Creating intelligent automation systems  
+- 🗄️ **Vector Databases** - Implementing similarity search and embeddings
+- 📚 **RAG (Retrieval-Augmented Generation)** - Enhancing AI with contextual knowledge
+- 🛠️ **Model Context Protocol (MCP)** - Building structured AI agent interactions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saikirananumalla&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikirananumalla&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikirananumalla&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saikirananumalla&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -60,9 +87,13 @@ I'm a passionate software developer with a keen interest in building scalable an
 
 ## 📌 Featured Projects
 
-### 📍 [Crypto GPT](https://github.com/saikirananumalla/crypto-gpt) *(Ongoing)*  
-**Tech Stack:** Java | Spring Boot | GraphQL | PostgreSQL | OpenAI API | React  
-🚀 A full-stack AI-powered cryptocurrency assistant that fetches live crypto prices and lets users ask crypto-related queries using a real-time chat interface backed by ChatGPT and GraphQL Subscriptions.
+### 📍 [AI-Powered Job Search Automation](https://github.com/saikirananumalla/job-search-automation)  
+**Tech Stack:** n8n | OpenAI API | Node.js | Streamlit | Notion | AWS S3 | Slack API  
+🤖 End-to-end automation system that scrapes LinkedIn jobs, analyzes them using AI against my candidate profile, scores opportunities, and generates tailored resumes. Processed 1500+ jobs in 3 days with zero manual filtering.
+
+### 📍 [Database Agent with Model Context Protocol (MCP)](https://github.com/saikirananumalla/database-agent-mcp)  
+**Tech Stack:** FastAPI | OpenAI/LLaMA 3.2 | SQLite | Model Context Protocol  
+🗄️ Built an AI agent that fully implements the Model Context Protocol (MCP) to enable natural language control over SQL databases. Allows users to query, insert, update, and manage database operations through conversational AI.
 
 ### 📍 [Distributed Key-Value Store](https://github.com/saikirananumalla/distributed-key-value-store)  
 **Tech Stack:** Java | Multi-threading | RMI | Paxos  
@@ -86,6 +117,14 @@ I'm a passionate software developer with a keen interest in building scalable an
 
 ---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikirananumalla&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 <p align="center">
@@ -103,4 +142,4 @@ I'm a passionate software developer with a keen interest in building scalable an
 ---
 
 ⭐ **If you like my work, consider giving a ⭐ to my repositories!**  
-🚀 *Let’s build scalable systems together!*
+🚀 *Let's build scalable systems together!*
