@@ -67,11 +67,11 @@ I'm a passionate software developer with a keen interest in building scalable an
 
 ## 📌 Featured Projects
 
-### 📍 [AI-Powered Job Search Automation](https://github.com/saikirananumalla/job-search-automation)  
+### 📍 [AI-Powered Job Search Automation](https://github.com/saikirananumalla/resume-service)  
 **Tech Stack:** n8n | OpenAI API | Node.js | Streamlit | Notion | AWS S3 | Slack API  
 🤖 End-to-end automation system that scrapes LinkedIn jobs, analyzes them using AI against my candidate profile, scores opportunities, and generates tailored resumes. Processed 1500+ jobs in 3 days with zero manual filtering.
 
-### 📍 [Database Agent with Model Context Protocol (MCP)](https://github.com/saikirananumalla/database-agent-mcp)  
+### 📍 [Database Agent with Model Context Protocol (MCP)](https://github.com/saikirananumalla/AI-Engineering)  
 **Tech Stack:** FastAPI | OpenAI/LLaMA 3.2 | SQLite | Model Context Protocol  
 🗄️ Built an AI agent that fully implements the Model Context Protocol (MCP) to enable natural language control over SQL databases. Allows users to query, insert, update, and manage database operations through conversational AI.
 
