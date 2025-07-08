@@ -27,26 +27,6 @@ I'm a passionate software developer with a keen interest in building scalable an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikirananumalla&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikirananumalla&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikirananumalla&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saikirananumalla&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Languages**  
@@ -117,14 +97,6 @@ I'm a passionate software developer with a keen interest in building scalable an
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikirananumalla&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
@@ -137,6 +109,22 @@ I'm a passionate software developer with a keen interest in building scalable an
   <a href="https://saikirananumalla.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikirananumalla&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikirananumalla&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saikirananumalla&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
