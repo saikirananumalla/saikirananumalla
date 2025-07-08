@@ -85,7 +85,7 @@ I'm a passionate software developer with a keen interest in building scalable an
 
 ### 📍 [StackOverflow Clone](https://github.com/saikirananumalla/stackoverflow-replica)  
 **Tech Stack:** TypeScript | React | Node.js | Express | PostgreSQL | Docker | GitHub Actions  
-💬 A full-stack Q&A platform with authentication, commenting, voting, and CI/CD pipeline via GitHub Actions. Deployed with Docker containers and managed using GitHub Projects.
+💬 A full-stack Q&A platform with authentication, commenting, voting, and CI/CD pipeline via GitHub Actions.Project managed using GitHub Projects.
 
 ### 📍 [Flatmates – Chore & Payment Manager](https://github.com/saikirananumalla/flatmates-app)  
 **Tech Stack:** React | Python | FastAPI | Firebase | Material UI  
